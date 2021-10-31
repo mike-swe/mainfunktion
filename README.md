@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mainfunktion
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web project
+- 👋 Hi, I’m @mainfunktion currently learning web development and also open to collaborations (frontend) only
 - 📫 How to reach me (e:mainfunktion01@gmail.com)
 
 <!---
