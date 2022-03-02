@@ -1,10 +1,9 @@
 ### Hi, I'm Sean.
-front-end developer and user interface designer with the dedication to design and develop the 
-end-user experience by building accessible and responsive interfaces.
+
+Software engineering student currently learning python and solving kata's on codewars.
 
 Skills: SASS / JS / HTML / CSS / JQUERY / GIT
 
-- 🌱 I’m currently learning MERN Stack. 
 - 💬 Ask me about HTML & CSS 
 - 📫 How to reach me: chambersmikey@protonmail.com 
 
