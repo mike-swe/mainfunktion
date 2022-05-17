@@ -2,8 +2,6 @@
 
 Software engineering student currently learning python and solving kata's on codewars.
 
-Skills: SASS / JS / HTML / CSS / JQUERY / GIT
-
 - 💬 Ask me about HTML & CSS 
 - 📫 How to reach me: chambersmikey@protonmail.com 
 
